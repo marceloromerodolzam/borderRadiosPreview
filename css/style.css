@@ -7,11 +7,9 @@ body{
 }
 
 #box{
-    height: 100px;
-    width: 100px;
     padding: 10px;
-    background-color: #a2ffff;
     margin: 55px;
+    box-shadow: 1px 1px 4px;
 }
 
 #controles{
@@ -36,4 +34,8 @@ button{
 
 button:hover{
     background-color: #e2e2e2;
+}
+
+#whControles{
+    margin: 10px;
 }
